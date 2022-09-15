@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lijishwilson
+- 👋 Hi, I’m @Lijish Wilson
 - 👀 I’m interested in Making and writing codes .( Creators of ALAS Cipher)
 - 🌱 I’m currently learning machine learning , IT security Support.
 - 💞️ Willing to learn and collaborate on any projects. :)
