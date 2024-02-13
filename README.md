@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lijish Wilson
 - 👀 I’m interested in Making and writing codes .( Creators of ALAS Cipher)
-- 🌱 I’m currently learning machine learning , IT security Support.
+- 🌱 Releasing a web player soon.
 - 💞️ Willing to learn and collaborate on any projects. :)
 - 📫 How to reach me Email@ lijishwilson@gmail.com , lijishdon@gmail.com
 
